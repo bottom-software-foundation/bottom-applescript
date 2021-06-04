@@ -6,6 +6,7 @@ I can't find a way to get the bytes from a string in pure AppleScript. So this p
 
 If anyone else is masochistic enough to try then please do 🥺👉👈
 
+Note: Script Editor by default saved the scripts as `.scpt` files which are binary. I have uploaded the text versions as well which end in `.applescript`.
 ## How to use
 Place `bottomify.scpt` and `debottomify.scpt` into your Script Libraries folder.
 
